@@ -11,4 +11,4 @@
 - 👨🏻‍💻 My LinkedIn is [here](https://www.linkedin.com/in/nurzhan-kanatzhanov/)
 - 🌏 Fun fact: my home country is Kazakhstan 🇰🇿
 
-#### check out some of my projects below!
+## Check out some of my projects below! ↓
