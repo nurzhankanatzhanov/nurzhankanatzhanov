@@ -1,8 +1,8 @@
 <img align="right" src="https://github.com/nurzhankanatzhanov/nurzhankanatzhanov/blob/main/altumcode-zE007SNgcdE-unsplash.jpg" alt="Background Picture" width=350px height=465px/>
 
-### Hi, I'm Nurzhan 👋
+## Hi, I'm Nurzhan 👋
 
-# Currently actively seeking internship for Summer 2021
+### Currently actively seeking internship for Summer 2021
 
 - 🎓 I'm currently studying at Washington University in St. Louis for a joint BS/MS degree in Computer Science (Class of '21!)
 - 📚 I’m currently busy with my schoolwork, but in my free time I want to learn React Native!
