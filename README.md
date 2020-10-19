@@ -2,7 +2,10 @@
 
 ### Hi, I'm Nurzhan 👋
 
-- 📚 I’m currently busy with my schoolwork but in my free time I want to learn React Native!
+# Currently actively seeking internship for Summer 2021
+
+- 🎓 I'm currently studying at Washington University in St. Louis for a joint BS/MS degree in Computer Science (Class of '21!)
+- 📚 I’m currently busy with my schoolwork, but in my free time I want to learn React Native!
 - 🏫 I’m currently learning about some complex algorithms (dynamic programming, greedy, divide & conquer, etc.)
 - 📫 How to reach me: you can email me at nurzhan.kanatzhanov@wustl.edu
 - 👨🏻‍💻 My LinkedIn is [here](https://www.linkedin.com/in/nurzhan-kanatzhanov/)
