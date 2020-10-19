@@ -1,3 +1,5 @@
+<img align="right" src="https://github.com/nurzhankanatzhanov/nurzhankanatzhanov/blob/main/altumcode-zE007SNgcdE-unsplash.jpg" alt="Background Picture" width=350px height=465px/>
+
 ### Hi, I'm Nurzhan 👋
 
 - 📚 I’m currently busy with my schoolwork but in my free time I want to learn React Native!
