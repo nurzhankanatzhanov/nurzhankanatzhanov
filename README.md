@@ -2,11 +2,10 @@
 
 ## Hi, I'm Nurzhan 👋
 
-### Currently actively seeking internship for Summer 2021
+### Currently actively seeking internship/co-op opportunity for Fall/Winter 2021
 
 - 🎓 I'm in my penultimate year, studying at Washington University in St. Louis for a joint BS/MS degree in Computer Science (Class of '21!)
 - 📚 I’m currently busy with my schoolwork, but in my free time I want to learn React Native!
-- 🏫 I’m learning about some complex algorithms (dynamic programming, greedy, divide & conquer, etc.)
 - 📫 How to reach me: you can email me at nurzhan.kanatzhanov@wustl.edu
 - 👨🏻‍💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/nurzhan-kanatzhanov/)
 - 🌏 Fun fact: my home country is Kazakhstan 🇰🇿
