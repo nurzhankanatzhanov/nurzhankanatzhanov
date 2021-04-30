@@ -4,7 +4,7 @@
 
 ### Currently actively seeking internship/co-op opportunity for Fall/Winter 2021
 
-- 🎓 I'm in my penultimate year, studying at Washington University in St. Louis for a joint BS/MS degree in Computer Science (Class of '21!)
+- 🎓 I'm a graduate student, studying Computer Science @ Washington University in St. Louis (Class of '21!)
 - 📚 I’m currently busy with my schoolwork, but in my free time I want to learn React Native!
 - 📫 How to reach me: you can email me at nurzhan.kanatzhanov@wustl.edu
 - 👨🏻‍💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/nurzhan-kanatzhanov/)
