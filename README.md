@@ -3,7 +3,7 @@
 ## Hi, I'm Nurzhan 👋
 
 - 📫 How to reach me: you can email me at nurzhan.kanatzhanov@gmail.com
-- 👨🏻‍💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/nurzhan-kanatzhanov/)
+- 👨🏻‍💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/nurzhank/)
 - 🌏 Fun fact: my home country is Kazakhstan 🇰🇿
 
 ## Check out some of my projects below! ↓
